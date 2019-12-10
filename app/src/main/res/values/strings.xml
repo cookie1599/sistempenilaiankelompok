@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">sistem penilaian kelompok</string>
+
+    <string name="app_name">sistempenilaiankelompok</string>
+
+    <string name="pilih">Sprint</string>
+    <string-array name="pilih">
+        <item>OOAD</item>
+        <item>Mobile</item>
+        <item>Menpro</item>
+    </string-array>
+
+    <string name="pilih1">Sprint</string>
+    <string-array name="pilih1">
+        <item>Sprint</item>
+        <item>UTS</item>
+        <item>UAS</item>
+        <item>Point</item>
+    </string-array>
+
 </resources>
